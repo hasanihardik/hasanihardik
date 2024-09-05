@@ -15,11 +15,10 @@
 </em></p>
 
 [![Visits](https://komarev.com/ghpvc/?username=hasanihardik&label=Github%20Profile%20Visits&color=f20707&logo=github&style=flat-square)](https://github.com/hasanihardik)
-[![Website](https://img.shields.io/website?label=My%20Website&logo=Google-Chrome&logoColor=white&style=flat-square&url=https://hardiks-portfolio.vercel.app/)](hardiks-portfolio.vercel.app)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fhardiks-portfolio.vercel.app%2F)](hardiks-portfolio.vercel.app)
 [![My Youtube](https://img.shields.io/youtube/channel/subscribers/UC76dp06Rfwyaah7m2f560yA?color=%23ff0000&label=YT%20Subscribers&logo=Youtube&logoColor=%23ff0000&style=flat-square)](https://www.youtube.com/c/howtohardik)
 [![Twitter Follow](https://img.shields.io/twitter/follow/hasanihardik?color=1DA1F2&label=Follow%20Me&logo=twitter&style=flat-square)](https://twitter.com/hasanihardik)
 [![GitHub Followers](https://img.shields.io/github/followers/hasanihardik?label=Github%20Followers&logo=github&style=flat-square)](https://github.com/hasanihardik)
-[![GitHub User's stars](https://img.shields.io/github/stars/hasanihardik)](https://github.com/hasanihardik)
 
 
 <h2 align='left'>
@@ -32,7 +31,7 @@
 </h2>
 
 <h2 align='left'>
-  Languages I am good at...<br/><br/>
+  Languages I am good at:-<br/><br/>
 
 [![Javascript](https://img.shields.io/badge/Knows-JavaScript-blue/?logo=javascript&logoColor=warning&color=yellow)](https://github.com/hasanihardik)
 [![Typescript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/hasanihardik)
@@ -45,11 +44,11 @@
 
 
 <h3 align='left'>
-  💻 My Workspace, My PC!!!:-<br/><br/>
+  💻What i am working with:-<br/><br/>
 
   [![Windows 11](https://img.shields.io/badge/Windows%2010-%230078D6.svg?&style=flat-square&logo=windows&logoColor=white)](https://github.com/hasanihardi)
   [![Ryzen 7 5800H](https://img.shields.io/badge/Intel-Core%20i5%205th%20%20Gen-%230071C5.svg?&style=flat-square&logo=intel&logoColor=white)](https://github.com/hasanihardik)
-  [![RTX 3060](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)](https://github.com/hasanihardik)
+  [![RTX 3060](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat-square&logo=nVIDIA&logoColor=white)](https://github.com/hasanihardik)
   [![16GB RAM](https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=flat-square&logoColor=white)](https://github.com/hasanihardik)
   [![64 Bit System](https://img.shields.io/badge/System%20Type-64%20Bit-%230071C5.svg?&style=flat-square)](https://github.com/hasanihardik)
 </h3>
@@ -62,13 +61,9 @@
 
 <br />
 
-<table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/CodingAce123/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/CodingAce123/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/CodingAce123/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
-
-<br />
-
 ---
 
-## 👱🏼 Some Of My Best and Awesome Projects 🚀-
+## 👱🏼 My Recent Projects -
 
   <br />
   <table>
@@ -84,7 +79,7 @@
     </thead>
     <tbody>
       <tr>
-	      <td><a href="https://github.com/hasanihardik/iMDb-CLONE"><b>🚀 iMDb Clone</b></a></td>
+	      <td><a href="https://github.com/hasanihardik/iMDb-CLONE"><b>iMDb Clone</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/hasanihardik/iMDb-CLONE?style=flat-square&label=Stars&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/hasanihardik/iMDb-CLONE?style=flat-square&label=Forks&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/hasanihardik/iMDb-CLONE?style=flat-square&label=Issues"/></td>
@@ -106,11 +101,11 @@
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/hasanihardik/UrlShortener?label=Javascript&style=flat-square"/></td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/hasanihardik/Virtual-CalC"><b>👨🏻‍💻 Virtual Calculator</b></a></td>
+	      <td><a href="https://github.com/hasanihardik/Virtual-CalC"><b>Virtual Calculator</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/hasanihardik/Virtual-CalC?style=flat-square&label=Stars&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/hasanihardik/Virtual-CalC?style=flat-square&label=Forks&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/hasanihardik/Virtual-CalC?style=flat-square&label=Issues"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/hasanihardik/Virtual-CalC?style=flat-square&label=Pull%20Requests"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/hasanihardik/Virtual-CalC?style=flat-square&label=Pull%20Requests"/></td>
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/hasanihardik/Virtual-CalC?style=flat-square&label=Javascript"/></td> 
       </tr>
       <tr>
@@ -128,23 +123,22 @@
 ---
 
 ## GitHub Stats
-**🐱 My GitHub Data** 
 
 <details>
   <summary> <img align="left" alt="Github Logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/github.svg" /> <b>:zap: GitHub Stats :zap:</b>: </summary>
 <br />
 <div align="center">
 
-<img src='https://raw.githubusercontent.com/CodingAce123/hasanihardik/master/profile-summary-card-output/github_dark/0-profile-details.svg'
+<img src='https://raw.githubusercontent.com/hasanihardik/hasanihardik/master/profile-summary-card-output/github_dark/0-profile-details.svg'
 align = "left" />
 
-<img src ='https://raw.githubusercontent.com/CodingAce123/hasanihardik/master/profile-summary-card-output/github/1-repos-per-language.svg' />
+<img src ='https://raw.githubusercontent.com/hasanihardik/hasanihardik/master/profile-summary-card-output/github/1-repos-per-language.svg' />
 
-<img src = 'https://raw.githubusercontent.com/CodingAce123/hasanihardik/master/profile-summary-card-output/github/2-most-commit-language.svg' />
+<img src = 'https://raw.githubusercontent.com/hasanihardik/hasanihardik/master/profile-summary-card-output/github/2-most-commit-language.svg' />
 
-<img src = 'https://raw.githubusercontent.com/CodingAce123/hasanihardik/master/profile-summary-card-output/nord_dark/3-stats.svg' />
+<img src = 'https://raw.githubusercontent.com/hasanihardik/hasanihardik/master/profile-summary-card-output/nord_dark/3-stats.svg' />
 
-<img src = 'https://raw.githubusercontent.com/CodingAce123/hasanihardik/master/profile-summary-card-output/nord_dark/4-productive-time.svg' />
+<img src = 'https://raw.githubusercontent.com/hasanihardik/hasanihardik/master/profile-summary-card-output/nord_dark/4-productive-time.svg' />
 
 <img src='https://github-readme-stats.vercel.app/api?username=hasanihardik&show_icons=true&theme=radical&count_private=true&border_color=2e4058&line_height=40'  
 align="left" />
@@ -155,7 +149,7 @@ align="left" />
 
 [![](https://github-readme-streak-stats.herokuapp.com/?user=hasanihardik&theme=dark)](https://github.com/hasanihardik)
 
-<img src="https://activity-graph.herokuapp.com/graph?username=CodingAce123&theme=react-dark&bg_color=20232a&hide_border=true" width="100%">
+<img src="https://activity-graph.herokuapp.com/graph?username=hasanihardik&theme=react-dark&bg_color=20232a&hide_border=true" width="100%">
 
 </div>
 </details>
