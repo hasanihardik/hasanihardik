@@ -128,18 +128,7 @@
   <summary> <img align="left" alt="Github Logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/github.svg" /> <b>:zap: GitHub Stats :zap:</b>: </summary>
 <br />
 <div align="center">
-
-<img src='https://raw.githubusercontent.com/hasanihardik/hasanihardik/master/profile-summary-card-output/github_dark/0-profile-details.svg'
-align = "left" />
-
-<img src ='https://raw.githubusercontent.com/hasanihardik/hasanihardik/master/profile-summary-card-output/github/1-repos-per-language.svg' />
-
-<img src = 'https://raw.githubusercontent.com/hasanihardik/hasanihardik/master/profile-summary-card-output/github/2-most-commit-language.svg' />
-
-<img src = 'https://raw.githubusercontent.com/hasanihardik/hasanihardik/master/profile-summary-card-output/nord_dark/3-stats.svg' />
-
-<img src = 'https://raw.githubusercontent.com/hasanihardik/hasanihardik/master/profile-summary-card-output/nord_dark/4-productive-time.svg' />
-
+	
 <img src='https://github-readme-stats.vercel.app/api?username=hasanihardik&show_icons=true&theme=radical&count_private=true&border_color=2e4058&line_height=40'  
 align="left" />
 
