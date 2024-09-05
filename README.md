@@ -153,7 +153,7 @@ align="left" />
 
 <br>
 
-## 💻 Made with ❤️ by **Hardik Hasani** with **Github** 🙏
+## 💻 Made with ❤️ by **Hardik Hasani**
 </details>
 
 [website]: https://hardiks-portfolio.vercel.app/
