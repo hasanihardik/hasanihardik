@@ -46,9 +46,9 @@
   💻What i am working with:-<br/><br/>
 
   [![Windows 11](https://img.shields.io/badge/Windows%2010-%230078D6.svg?&style=flat-square&logo=windows&logoColor=white)](https://github.com/hasanihardi)
-  [![Ryzen 7 5800H](https://img.shields.io/badge/AMD-Ryzen_7_5800-ED1C24?style=for-the-badge&logo=amd&logoColor=white)](https://github.com/hasanihardik)
-  [![RTX 3060](https://img.shields.io/badge/NVIDIA-RTX3060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://github.com/hasanihardik)
-  [![16GB RAM](https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=flat-square&logoColor=white)](https://github.com/hasanihardik)
+  [![Ryzen 7 5800H](https://img.shields.io/badge/AMD-Ryzen_7_5800-ED1C24?style=flat-square&logo=amd&logoColor=white)](https://github.com/hasanihardik)
+  [![RTX 3060](https://img.shields.io/badge/NVIDIA-RTX3060-76B900?style=flat-square&logo=nvidia&logoColor=white)](https://github.com/hasanihardik)
+  [![16GB RAM](https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=flat-square&logoColor=white)](https://github.com/hasanihardik)
   [![64 Bit System](https://img.shields.io/badge/System%20Type-64%20Bit-%230071C5.svg?&style=flat-square)](https://github.com/hasanihardik)
 </h3>
 
