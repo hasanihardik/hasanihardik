@@ -15,7 +15,6 @@
 </em></p>
 
 [![Visits](https://komarev.com/ghpvc/?username=hasanihardik&label=Github%20Profile%20Visits&color=f20707&logo=github&style=flat-square)](https://github.com/hasanihardik)
-[![Website](https://img.shields.io/website?url=https//hardiks-portfolio.vercel.app/)](hardiks-portfolio.vercel.app)
 [![My Youtube](https://img.shields.io/youtube/channel/subscribers/UC76dp06Rfwyaah7m2f560yA?color=%23ff0000&label=YT%20Subscribers&logo=Youtube&logoColor=%23ff0000&style=flat-square)](https://www.youtube.com/c/howtohardik)
 [![Twitter Follow](https://img.shields.io/twitter/follow/hasanihardik?color=1DA1F2&label=Follow%20Me&logo=twitter&style=flat-square)](https://twitter.com/hasanihardik)
 [![GitHub Followers](https://img.shields.io/github/followers/hasanihardik?label=Github%20Followers&logo=github&style=flat-square)](https://github.com/hasanihardik)
