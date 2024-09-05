@@ -15,7 +15,7 @@
 </em></p>
 
 [![Visits](https://komarev.com/ghpvc/?username=hasanihardik&label=Github%20Profile%20Visits&color=f20707&logo=github&style=flat-square)](https://github.com/hasanihardik)
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fhardiks-portfolio.vercel.app%2F)](hardiks-portfolio.vercel.app)
+[![Website](https://img.shields.io/website?url=https//hardiks-portfolio.vercel.app/)](hardiks-portfolio.vercel.app)
 [![My Youtube](https://img.shields.io/youtube/channel/subscribers/UC76dp06Rfwyaah7m2f560yA?color=%23ff0000&label=YT%20Subscribers&logo=Youtube&logoColor=%23ff0000&style=flat-square)](https://www.youtube.com/c/howtohardik)
 [![Twitter Follow](https://img.shields.io/twitter/follow/hasanihardik?color=1DA1F2&label=Follow%20Me&logo=twitter&style=flat-square)](https://twitter.com/hasanihardik)
 [![GitHub Followers](https://img.shields.io/github/followers/hasanihardik?label=Github%20Followers&logo=github&style=flat-square)](https://github.com/hasanihardik)
@@ -33,7 +33,7 @@
 <h2 align='left'>
   Languages I am good at:-<br/><br/>
 
-[![Javascript](https://img.shields.io/badge/Knows-JavaScript-blue/?logo=javascript&logoColor=warning&color=yellow)](https://github.com/hasanihardik)
+[![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/hasanihardik)
 [![Typescript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/hasanihardik)
 [![Node JS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/hasanihardik)
 [![C/C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/hasanihardik)
@@ -47,8 +47,8 @@
   💻What i am working with:-<br/><br/>
 
   [![Windows 11](https://img.shields.io/badge/Windows%2010-%230078D6.svg?&style=flat-square&logo=windows&logoColor=white)](https://github.com/hasanihardi)
-  [![Ryzen 7 5800H](https://img.shields.io/badge/Intel-Core%20i5%205th%20%20Gen-%230071C5.svg?&style=flat-square&logo=intel&logoColor=white)](https://github.com/hasanihardik)
-  [![RTX 3060](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat-square&logo=nVIDIA&logoColor=white)](https://github.com/hasanihardik)
+  [![Ryzen 7 5800H](https://img.shields.io/badge/AMD-Ryzen_7_5800-ED1C24?style=for-the-badge&logo=amd&logoColor=white)](https://github.com/hasanihardik)
+  [![RTX 3060](https://img.shields.io/badge/NVIDIA-RTX3060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://github.com/hasanihardik)
   [![16GB RAM](https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=flat-square&logoColor=white)](https://github.com/hasanihardik)
   [![64 Bit System](https://img.shields.io/badge/System%20Type-64%20Bit-%230071C5.svg?&style=flat-square)](https://github.com/hasanihardik)
 </h3>
@@ -137,8 +137,6 @@ align="left" />
 [![trophy](https://github-profile-trophy.vercel.app/?username=hasanihardik&theme=gruvbox&row=1&column=7)](https://github.com/hasanihardik)
 
 [![](https://github-readme-streak-stats.herokuapp.com/?user=hasanihardik&theme=dark)](https://github.com/hasanihardik)
-
-<img src="https://activity-graph.herokuapp.com/graph?username=hasanihardik&theme=react-dark&bg_color=20232a&hide_border=true" width="100%">
 
 </div>
 </details>
