@@ -14,12 +14,11 @@
 *A CSE Student at [Vellore Institute Of Technology, Chennai*
 </em></p>
 
-[![Visits](https://komarev.com/ghpvc/?username=CodingAce123&label=Github%20Profile%20Visits&color=f20707&logo=github&style=flat-square)](https://github.com/hasanihardik)
+[![Visits](https://komarev.com/ghpvc/?username=hasanihardik&label=Github%20Profile%20Visits&color=f20707&logo=github&style=flat-square)](https://github.com/hasanihardik)
 [![Website](https://img.shields.io/website?label=My%20Website&logo=Google-Chrome&logoColor=white&style=flat-square&url=https://aaryanbizoara.whjr.site/)](hardiks-portfolio.vercel.app)
-[![My Youtube](https://img.shields.io/youtube/channel/subscribers/UC5kSlDs_uZs6mr-GeJfC8tg?color=%23ff0000&label=YT%20Subscribers&logo=Youtube&logoColor=%23ff0000&style=flat-square)](https://www.youtube.com/c/howtohardik)
-[![Twitter Follow](https://img.shields.io/twitter/follow/CrzSnapshotGamr?color=1DA1F2&label=Follow%20Me&logo=twitter&style=flat-square)](https://twitter.com/hasanihardik)
-[![GitHub Followers](https://img.shields.io/github/followers/CodingAce123?label=Github%20Followers&logo=github&style=flat-square)](https://github.com/hasanihardik)
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/3kh0?label=Sponsors&logo=githubsponsors&style=flat-square)](https://github.com/hasanihardik)
+[![My Youtube](https://img.shields.io/youtube/channel/subscribers/howtohardik?color=%23ff0000&label=YT%20Subscribers&logo=Youtube&logoColor=%23ff0000&style=flat-square)](https://www.youtube.com/c/howtohardik)
+[![Twitter Follow](https://img.shields.io/twitter/follow/hasanihardik?color=1DA1F2&label=Follow%20Me&logo=twitter&style=flat-square)](https://twitter.com/hasanihardik)
+[![GitHub Followers](https://img.shields.io/github/followers/hasanihardik?label=Github%20Followers&logo=github&style=flat-square)](https://github.com/hasanihardik)
 [![GitHub User's stars](https://img.shields.io/github/stars/3kh0?color=yellow&label=User%20Stars&style=flat-square&logo=github&logoColor=yellow)](https://github.com/hasanihardik)
 
 
