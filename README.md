@@ -108,7 +108,7 @@
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/hasanihardik/Virtual-CalC?style=flat-square&label=Javascript"/></td> 
       </tr>
       <tr>
-	      <td><a href="https://github.com/hasanihardik/Portfolio"><b>Portfolio Site</b></a></td>
+	      <td><a href="https://github.com/hasanihardik/Portfolio"><b>Portfolio</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/hasanihardik/Portfolio?style=flat-square&label=Stars&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/hasanihardik/Portfolio?style=flat-square&label=Forks&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/hasanihardik/Portfolio?style=flat-square&label=Issues"/></td>
@@ -121,7 +121,7 @@
 
 ---
 
-## GitHub Stats
+## GitHub Stats:
 
 <details>
   <summary> <img align="left" alt="Github Logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/github.svg" /> <b>:zap: GitHub Stats :zap:</b>: </summary>
@@ -153,7 +153,7 @@ align="left" />
 
 <br>
 
-## 💻 Made with ❤️ by **Hardik Hasani**
+## 💻 Made with ❤️ by **Hardik**
 </details>
 
 [website]: https://hardiks-portfolio.vercel.app/
